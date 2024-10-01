@@ -91,6 +91,3 @@ pip install os shutil threading docx openpyxl PyPDF2
     ```bash
     IOError: [Errno 26] Text file busy: '/path/to/file'
     ```
-```
-
-Feel free to copy and paste this directly into your `README.md` file on GitHub! Let me know if you need any more modifications.
