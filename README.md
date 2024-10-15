@@ -1,7 +1,7 @@
-# Lite Directory Copier v0.1 - Documentation
+# LITE Directory Copier v0.1 - Documentation
 
 ## Description:
-The **Lite Directory Copier v0.1** script is designed to recursively list all files and subdirectories from a source directory and aggregate their names and paths into a single `.txt` file. While it does not copy file contents or metadata (e.g., timestamps), it provides a lightweight overview of the directory's structure, making it ideal for organizing background information, summarizing file contents, or preparing directory details for processing or transfer. This tool is particularly useful for creating simple, text-based representations of directory structures for easy traversal by AI tools like ChatGPT.
+The **LITE Directory Copier v0.1** script is designed to recursively list all files and subdirectories from a source directory and aggregate their names and paths into a single `.txt` file. While it does not copy file contents or metadata (e.g., timestamps), it provides a lightweight overview of the directory's structure, making it ideal for organizing background information, summarizing file contents, or preparing directory details for processing or transfer. This tool is particularly useful for creating simple, text-based representations of directory structures for easy traversal by AI tools like ChatGPT.
 
 ## Capabilities:
 - **Recursive Copy**: The script traverses the entire file hierarchy in the source directory and replicates it in the destination directory.
